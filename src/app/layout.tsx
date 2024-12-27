@@ -5,8 +5,8 @@ import ToasterContext from "./context/ToasterContext";
 import "./globals.css";
 
 export const metadata = {
-  title: "NextJs Messenger Clone",
-  description: "NextJs Messenger Clone",
+  title: "Мессенджер Simpl",
+  description: "Новый мессенджер от Егора. Е",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
